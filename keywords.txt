@@ -1,0 +1,24 @@
+#######################################
+# Syntax Coloring Map For Ultrasound
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+JHash		KEYWORD1
+SHA1		KEYWORD1
+HMAC_SHA1	KEYWORD1
+Base64		KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+encode	KEYWORD2
+decode	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
